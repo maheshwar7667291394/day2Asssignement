@@ -1,0 +1,2 @@
+As we know that java is miltithreding  pograming language there is higher risk to to occure race
+condition . race conditon means same resourece may be access by multiple thread at sme thime.
